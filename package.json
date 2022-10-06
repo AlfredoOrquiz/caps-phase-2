@@ -1,0 +1,35 @@
+{
+  "name": "caps-phase-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfredoOrquiz/caps-phase-2.git"
+  },
+  "author": "Alfredo Orquiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlfredoOrquiz/caps-phase-2/issues"
+  },
+  "homepage": "https://github.com/AlfredoOrquiz/caps-phase-2#readme",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "bcrypt": "^5.0.1",
+    "chance": "^1.1.8",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "jest": "^29.1.2",
+    "pg": "^8.8.0",
+    "sequelize": "^6.24.0",
+    "sequelize-cli": "^6.5.1",
+    "socket.io": "^4.5.2",
+    "socket.io-client": "^4.5.2",
+    "sqlite3": "^5.1.2",
+    "supertest": "^6.3.0"
+  }
+}
