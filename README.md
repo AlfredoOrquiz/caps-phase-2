@@ -4,7 +4,7 @@
 Jordan Yamada, Jeffrey Smith
 
 ## Live Deploy
-
+[Heroku](https://alfredo-caps-phase-2.herokuapp.com/)
 
 ## Deployment
 How do I install the app or library? Clone this app and install all dependencies.
